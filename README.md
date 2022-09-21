@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack Developer**
 
-- 💬 Ask me about **Java, Springboot, Angular**
+- 💬 Ask me about **Java, Springboot, Angular etc**
 
 - 📫 How to reach me **chavansagar96044@gmail.com**
 
