@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.postimg.cc/zfc528xL/full-stack-developer.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/MSK7bDn/full-stack-developer-baner.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Sagar Chavan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
