@@ -1,4 +1,6 @@
+<!--
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/D4dzqNW/Untitled-1.png" height="175px"/></a>
+-->
 
 <h1 align="center">Hi 👋, I'm Sagar Chavan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
